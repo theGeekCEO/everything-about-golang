@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/111015028/198755621-bc8f5bf2-58fb-44df-8274-e7928cc82029.png)
+![image](https://user-images.githubusercontent.com/111015028/198755680-1f3bfb86-4fb8-471a-ae2b-7ff0327c7d18.png)
 
 # GOLANG Tutorial
 This will be updated as i continue my journey
